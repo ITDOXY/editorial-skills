@@ -1,0 +1,25 @@
+{
+  "version": "0.1.0",
+  "profile_schema_version": 1,
+  "dossier_schema_version": 1,
+  "files": {
+    "skills/article-review/LICENSE": "66a3107d5ad6a058aab753eaac2047ccb2ed0e39465dd0fe5844da3e300d5172",
+    "skills/article-review/NOTICE": "69e54722e4ec518a6d74d593e4c18654727a42ce7373177e85778e39aab5ae6f",
+    "skills/article-review/SKILL.md": "59b8d00988544d5a26ef75e719fe9e723656c3ec2af24746465489c8c5ec325c",
+    "skills/article-review/references/checklist.md": "122188d00cccd3c1184b760f7005a2303cec940cffda381e61514cc8dcc96fd1",
+    "skills/research/LICENSE": "66a3107d5ad6a058aab753eaac2047ccb2ed0e39465dd0fe5844da3e300d5172",
+    "skills/research/NOTICE": "69e54722e4ec518a6d74d593e4c18654727a42ce7373177e85778e39aab5ae6f",
+    "skills/research/SKILL.md": "bad5a25ef85aba1e5684d8fbfc3252bd435f158d986649fff84588f620c9a6c4",
+    "skills/research/references/evidence.md": "445a5112a12ac9fbc39325f3de0ce654dbdc0959fad8b50bf8e33f6da29db0bf",
+    "skills/research/references/project-profile.md": "5ec9475334474c75ee44881ca130669faf297016482dc439ef2a1138f9c026d6",
+    "skills/research/references/templates/README.md": "0bd4dca5919f5decbe6b400a06bed15c5d1b16770c3ef225166f908c5af907a4",
+    "skills/research/references/templates/brief.md": "320a0de10941b7c3e60b3ac44d6e020d78e237dbd931db5a67b4b9b2de7d8def",
+    "skills/research/references/templates/findings.md": "849d88b48de46b3212273bddecebe6d8ed89dd0a6ece55925984727596d27f7c",
+    "skills/research/references/templates/outline.md": "ef94e75ffce812c218c5455400e8ab8df20fe2165183d7f2c5bf9ce9358e0a73",
+    "skills/research/references/templates/review.md": "aa11db06461c49f3937f8f9610d8b38fade7bc93546275108208c4af17e04961",
+    "skills/research/references/templates/sources.yaml": "faa5f66c8245b10cec0e2820ad164a60c7515fff0e8dd5dfdec2a267af15147f",
+    "skills/research/references/templates/verification.md": "c1a5f15b8de829f5ff26f07257553af1a5edef270c70328b04dca6b7fa56091e"
+  },
+  "license": "MPL-2.0",
+  "repository": "https://github.com/ITDOXY/editorial-skills"
+}

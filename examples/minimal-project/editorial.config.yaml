@@ -1,0 +1,10 @@
+profile_schema_version: 1
+dossier_schema_version: 1
+content_root: articles
+dossier_root: dossiers/evidence
+language: en
+research_policy: rules/research.md
+editorial_style: rules/style.md
+approval_policy: rules/approval.md
+quality_policy: rules/quality.md
+testing_profile: rules/testing.md

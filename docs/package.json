@@ -1,0 +1,19 @@
+{
+  "repository": "ITDOXY/editorial-skills",
+  "license": "MPL-2.0",
+  "license_text": {
+    "url": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MPL-2.0.txt",
+    "canonical": "https://www.mozilla.org/en-US/MPL/2.0/",
+    "sha256": "66a3107d5ad6a058aab753eaac2047ccb2ed0e39465dd0fe5844da3e300d5172",
+    "bytes": 16727
+  },
+  "dependency_policy": "External dependencies are declared, not vendored or relicensed.",
+  "templates": {
+    "skills/research/references/templates/brief.md": "320a0de10941b7c3e60b3ac44d6e020d78e237dbd931db5a67b4b9b2de7d8def",
+    "skills/research/references/templates/sources.yaml": "faa5f66c8245b10cec0e2820ad164a60c7515fff0e8dd5dfdec2a267af15147f",
+    "skills/research/references/templates/findings.md": "849d88b48de46b3212273bddecebe6d8ed89dd0a6ece55925984727596d27f7c",
+    "skills/research/references/templates/outline.md": "ef94e75ffce812c218c5455400e8ab8df20fe2165183d7f2c5bf9ce9358e0a73",
+    "skills/research/references/templates/verification.md": "c1a5f15b8de829f5ff26f07257553af1a5edef270c70328b04dca6b7fa56091e",
+    "skills/research/references/templates/review.md": "aa11db06461c49f3937f8f9610d8b38fade7bc93546275108208c4af17e04961"
+  }
+}
